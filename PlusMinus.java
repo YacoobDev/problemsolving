@@ -1,4 +1,4 @@
-class plusMinus {
+class PlusMinus {
 
     /*
      * Complete the 'plusMinus' function below.
